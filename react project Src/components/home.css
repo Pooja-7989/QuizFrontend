@@ -1,0 +1,19 @@
+.img {
+    position: relative; /* Make the container a reference point for absolutely positioned elements */
+    width: 100%; /* Set a width for the container */
+    height: 100%;
+/* Set a height for the container */
+}
+
+.image {
+    position: absolute; /* Position images absolutely within the container */
+    top: 0;
+    left: 0;
+    
+    object-fit: cover; /* Ensure images cover the container without distortion */
+}
+#img2{
+    margin-top: 300px;
+    margin-left: 600px;
+    
+}

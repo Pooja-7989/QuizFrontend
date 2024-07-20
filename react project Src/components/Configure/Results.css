@@ -1,0 +1,42 @@
+.side-by-side {
+    display: flex;
+    align-items: center;
+  }
+  
+  .side-by-side input {
+    margin-right: 10px; /* Space between checkbox and text */
+  }
+  
+  .side-by-side p {
+    margin: 0; /* Remove default margin */
+  }
+
+  .sub-content {
+    margin-top: 10px;
+    margin-left: 60px; /* Add space before the sub-content */
+  }
+  
+  .side-by-side {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px; /* Space between each checkbox and label */
+  }
+  
+  .side-by-side p {
+    margin-left: 10px; /* Space between the checkbox and text */
+  }
+  .bg{
+    background-color: #ddd;
+    padding: 30px;
+  }
+  .bg_1{
+    margin-left: -50px;
+    margin-top: -12px;
+  }
+
+  input[type="checkbox"]{
+    background-color: blue;
+  }
+  .bg_3{
+    padding-top: -2000px;
+  }

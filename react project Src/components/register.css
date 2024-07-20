@@ -1,0 +1,119 @@
+
+.full1{
+    margin-top: 100px;
+  }
+  .Form1 {
+    margin-top: 30px;
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+/*   
+  label {
+    font-size: 18px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    display: block;
+  } */
+  
+  input[type='text'],input[type='email'],
+  input[type='password'] {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    box-sizing: border-box;
+  }
+  
+  button[type='submit'] {
+    width: 100%;
+    padding: 12px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button[type='submit']:hover {
+    background-color: #0056b3;
+  }
+  .para {
+    margin-top: 15px;
+    text-align: center;
+  }
+  
+  /* a {
+    color: #007bff;
+    text-decoration: none;
+  }
+   */
+  
+  .dropdown-container {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-button {
+    padding: 6px 24px;
+    font-size: 15px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 1350px;
+    color: #000;
+    background-color: #00bbff;
+    border-radius: 12px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0);
+    transition: background-color 1s ease, transform 1s ease;
+    cursor: pointer;
+  }
+  
+  .dropdown-content {
+    position: absolute;
+    right: 0;
+    font-weight: bold;
+    font-size: 15px;
+    text-align: center;
+    background-color: #ffffff;
+    min-width: 100px;
+    border-radius: 8px;
+    box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+    z-index: 1;
+  }
+  
+  .dropdown-link {
+    color: black;
+    padding: 12px 14px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  
+  .dropdown-link:hover {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+    border-radius: 8px;
+  }
+ .head{
+    margin-left:55px;
+    margin-bottom: 25px;
+  }
+  
+  /* .logo1{
+    cursor: pointer;
+      max-height: 60px;
+      max-width: 60px;
+    margin-top: 9px;
+    margin-left: 10px;
+      width:500px;
+      height:1500px;
+      background-size: cover;
+      background-image: url('../images/zepto.jpg');
+      float: left;
+  } */

@@ -1,0 +1,22 @@
+body {
+    background-color: white;
+  }
+  
+.heading {
+    background-color: #FFC300;
+    text-align: center;
+    height: 50px;
+  }
+  
+  #button1 {
+    margin-top: 20px;
+    height: 45px;
+    width: 150px;
+    border: 0;
+    background-color: #337AB7;
+    border-radius: 4px;
+    margin-left: 45%;
+    color: aliceblue;
+    font-size: 25px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  }

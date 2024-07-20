@@ -1,0 +1,44 @@
+/* .surveypage{
+    height: 100%;
+    border:1px black solid;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    margin:0px auto;
+    background-color: #f2f2f2;
+} */
+.titleBar{
+    width: 60%;
+    height:40px;
+    border-top:1px black solid;
+    border-left:1px black solid;
+    border-right: 1px black solid;
+    border-start-end-radius: 5px;
+    border-top-left-radius: 5px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    background-image: linear-gradient(#fff,#ededed);
+    display: flex;
+    justify-content: space-between;
+}
+.optionBar{
+    width: 60%;
+    height:120px;
+    border:1px black solid;
+    margin: 0px auto;
+    background-color: #fff;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+}
+.drpdown{
+  margin-top: 70px;
+  margin-left:10px ;
+}
+.dropdown{
+  margin: 10px;
+text-align: center;
+}
+.outputbar{
+margin-top: 100px;
+}

@@ -1,0 +1,38 @@
+/* .container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+} */
+
+.top-panel {
+    background-color: #3c73c5;
+    padding-top: 10px;
+    width: 100%;
+    
+}
+
+.menu2 {
+    list-style: none;
+    display: flex;
+
+    margin: 0;
+    padding: 0;
+    width: 100% ;
+}
+
+.menu2 li {
+    cursor: pointer;
+    padding: 10px 20px;
+}
+
+.menu2 li.active {
+    background-color: #fff;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+}
+
+.content{
+    margin-right: 200px; 
+    margin-left: 200px;
+    margin-bottom: 70px;
+}
